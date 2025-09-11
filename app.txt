@@ -1,3 +1,5 @@
 Hello from main
 menu greeting accepted
 login form
+login form
+client-side validation
