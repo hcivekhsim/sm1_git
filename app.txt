@@ -1,5 +1,4 @@
 Hello
 Hello from main
-login form
-client-side validation
-login form
+menu greeting accepted
+Сценарий D2 — «Починка из будущего»
